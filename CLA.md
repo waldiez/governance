@@ -14,11 +14,11 @@ This Contributor Agreement ("Agreement") is agreed to by the party signing below
 
 "Submission" means the Code and any other copyrightable material Submitted by You, including any associated comments and documentation.
 
-## 2. Your Submission  
+## 2. Your Submission
 
 You must agree to the terms of this Agreement before making a Submission to any Project. This Agreement covers any and all Submissions that You, now or in the future (except as described in Section 4 below), Submit to any Project.
 
-## 3. Originality  of  Work
+## 3. Originality of Work
 
 You represent that each of Your Submissions is entirely Your original work. Should You wish to Submit materials that are not Your original work, You may Submit them separately to the Project if You (a) retain all copyright and license information that was in the materials as You received them, (b) in the description accompanying Your Submission, include the phrase "Submission containing materials of a third party:" followed by the names of the third party and any licenses or other restrictions of which You are aware, and (c) follow any other instructions in the Project's written guidelines concerning Submissions.
 
