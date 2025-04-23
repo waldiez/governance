@@ -52,7 +52,7 @@ You agree that contributions to Projects and information about contributions may
 
 This Agreement is the entire agreement between the parties, and supersedes any and all prior agreements, understandings or communications, written or oral, between the parties relating to the subject matter hereof. This Agreement may be assigned by Waldiez.
 
-Please select one of the options below and sign as indicated. By   signing, You accept and agree to the terms of this Contribution        Agreement for Your present and future Submissions to Waldiez.
+Please select one of the options below and sign as indicated. By signing, You accept and agree to the terms of this Contribution Agreement for Your present and future Submissions to Waldiez.
 
 Option 1: Individual Contributor
 
